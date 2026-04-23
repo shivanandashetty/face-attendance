@@ -1,0 +1,19 @@
+# Python
+faceenv/
+__pycache__/
+*.pyc
+*.pkl
+*.db
+
+# Data
+FACE/captures/
+FACE/dataset/
+
+# Node
+face-frontend/node_modules/
+
+# Build
+face-frontend/build/
+
+# Env
+.env
